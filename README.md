@@ -16,6 +16,10 @@ As a strategic move, the managing director of AtliQ Grands wanted to incorporate
 
 ## 📊 Dashboard
 Check out the live Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNmViYWQ1ZDktYWJkNC00ZWE0LWEyZTgtNzc2ODcxYTdjNjZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) or the Dashboard in PDF form [here](https://github.com/Kanikamittal99/Hospitality_Analysis/blob/master/HospitalityReportPdf.pdf).
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0142d610-9928-402a-a6cf-8e0c6dd84751" alt="HospitalityReportImage" width="600">
+</p>
+
 
 ## 💡 Insights & Recommendations
 ![image](https://github.com/user-attachments/assets/cc075f81-2757-49f1-a44e-cd213ef754ef)
